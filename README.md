@@ -352,6 +352,7 @@
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 * [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
+* [网易斯坦福大学公开课：iOS 8应用开发](http://open.163.com/special/opencourse/ios8.html)
 
 -----------------------
 
